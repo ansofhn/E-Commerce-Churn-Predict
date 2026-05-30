@@ -1,6 +1,5 @@
 """
-E-Commerce Churn Prediction — Streamlit App
-Self-contained: melatih model otomatis saat startup (no pkl needed)
+E-Commerce Churn Prediction
 Deploy: Streamlit Community Cloud
 """
 
